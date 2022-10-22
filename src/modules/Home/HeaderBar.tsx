@@ -21,11 +21,6 @@ export const HeaderBar = () => {
           <Grid item container columnGap={2} justifyContent={'flex-end'}>
             <Grid item>
               <Button variant={'outlined'} color={'white'}>
-                Home
-              </Button>
-            </Grid>
-            <Grid item>
-              <Button variant={'outlined'} color={'white'}>
                 Sobre mim
               </Button>
             </Grid>
